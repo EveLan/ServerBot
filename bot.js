@@ -32,7 +32,7 @@ const defaultSettings = {
 
 client.once('ready', async () => {
     console.log('Ready!');
-    let channelID = '215966843033223168' // the channel ID you want to have the server update into
+    let channelID = '' // the channel ID you want to have the server update into
     let channel = client.channels.cache.get(channelID)
     let ip = config.ip.split(':');
     let mapUpdate = setInterval(() =>{
