@@ -23,10 +23,15 @@ the file names corrospond to the maps name which is taken from an array split at
 
 ## Dependancies
 **For enabling the bot to do bot things**
+
 [discord.js](https://www.npmjs.com/package/discord.js)
+
 [enmap](https://www.npmjs.com/package/enmap)
+
 [better-sqlite3](https://www.npmjs.com/package/better-sqlite3)
 
 **Server scraping and making the server scraping look fancy**
+
 [gamedig](https://www.npmjs.com/package/gamedig)
+
 [canvas](https://www.npmjs.com/package/canvas)
